@@ -17,4 +17,3 @@ databases:
   # PostgreSQL Database Instance
   - name: antigravity-postgres
     plan: free
-    postgresVersion: "15"
