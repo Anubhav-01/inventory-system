@@ -18,4 +18,5 @@ services:
 databases:
   # PostgreSQL Database Instance
   - name: antigravity-postgres
-    plan: free
+    databaseName: inventory_db
+    user: inventory_user
