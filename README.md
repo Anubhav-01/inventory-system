@@ -7,9 +7,9 @@ Antigravity is a containerized full-stack Inventory & Order Management System de
 ## 🚀 Live Demo & Repository Resources
 
 * **GitHub Repository:** https://github.com/Anubhav-01/inventory-system
-* **Docker Hub Backend Image:** `[Insert Docker Hub Image Link Here]`
-* **Frontend Hosted URL (e.g. Vercel/Netlify):** `[Insert Hosted Frontend URL Here]`
-* **Backend API Hosted URL (e.g. Render):** `[Insert Hosted Backend API URL Here]`
+* **Docker Hub Backend Image:** [https://hub.docker.com/r/anubhav789/inventory-system-backend](https://hub.docker.com/r/anubhav789/inventory-system-backend)
+* **Frontend Hosted URL (e.g. Vercel/Netlify):** [https://inventory-system-pink-one.vercel.app](https://inventory-system-pink-one.vercel.app)
+* **Backend API Hosted URL (e.g. Render):** `[https://inventory-system-cl9t.onrender.com](https://inventory-system-cl9t.onrender.com)
 
 ---
 
